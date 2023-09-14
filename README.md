@@ -30,7 +30,7 @@ We welcome individuals from diverse backgrounds and skill levels to join our com
 
 ### Contact Us
 
-Have questions or want to get in touch? Check out [theClubhou.se](https://theClubhou.se) or feel free to reach out to us through our [Director of Technology](https://membership.theclubhou.se/members/eric-harrison-2) or connect with us on [LinkedIn](https://www.linkedin.com/company/theclubhou-se/) and [GitHub](https://github.com/theClubhou.se).
+Have questions or want to get in touch? Check out [theClubhou.se](https://theClubhou.se) or feel free to reach out to us through our [Director of Technology](https://membership.theclubhou.se/members/eric-harrison-2) or [Repo Initiator](https://membership.theclubhou.se/members/sarah-matta). You can also connect with us on [LinkedIn](https://www.linkedin.com/company/theclubhou-se/) and [Facebook](https://www.facebook.com/theClubhouseAugusta).
 
 We look forward to having you as part of our community at theClubhou.se! 
 
